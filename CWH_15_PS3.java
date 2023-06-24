@@ -38,6 +38,5 @@ public class CWH_15_PS3 {
         System.out.println(format3); // here it prints in different lines & spaces(tab) also
 
 
-
     }
 }
