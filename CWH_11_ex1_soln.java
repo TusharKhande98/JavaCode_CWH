@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class CWH_11_ex1_soln {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
