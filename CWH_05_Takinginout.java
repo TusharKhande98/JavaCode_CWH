@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 public class CWH_05_Takinginout {
     public static void main(String[] args) {
         System.out.println("write 'sout & press enter' we get this syntax typed.\n");
